@@ -1,0 +1,10 @@
+--- resources/app_languages.php.orig	2020-09-13 15:33:07.430166129 +0000
++++ resources/app_languages.php	2020-09-13 15:16:49.116843885 +0000
+@@ -22,6 +22,7 @@
+ $text['language-name']['sv-se'] = "Svenska - Sverige";
+ $text['language-name']['uk-ua'] = "Українська - Україна";
+ $text['language-name']['tr-tr'] = "Türkçe - Türkiye";
++$text['language-name']['ja'] = "Japanese";
+ 
+ $text['language-en-us']['en-us'] = "English - United States";
+ $text['language-en-gb']['en-us'] = "English - Great Britain";
